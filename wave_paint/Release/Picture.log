@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\ShimaLab\Desktop\2019年度 B4講義資料\共通課題\API_watanabe\wave_paint\main.cpp(239): warning C4838: 'int' から 'double' への変換には縮小変換が必要です
+C:\Users\ShimaLab\Desktop\2019年度 B4講義資料\共通課題\API_watanabe\wave_paint\main.cpp(240): warning C4838: 'int' から 'double' への変換には縮小変換が必要です
+C:\Users\ShimaLab\Desktop\2019年度 B4講義資料\共通課題\API_watanabe\wave_paint\main.cpp(282): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ShimaLab\Desktop\2019年度 B4講義資料\共通課題\API_watanabe\wave_paint\main.cpp(283): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ShimaLab\Desktop\2019年度 B4講義資料\共通課題\API_watanabe\wave_paint\main.cpp(328): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ShimaLab\Desktop\2019年度 B4講義資料\共通課題\API_watanabe\wave_paint\main.cpp(329): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ShimaLab\Desktop\2019年度 B4講義資料\共通課題\API_watanabe\wave_paint\main.cpp(249): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(2263): note: 'sscanf' の宣言を確認してください
+C:\Users\ShimaLab\Desktop\2019年度 B4講義資料\共通課題\API_watanabe\wave_paint\main.cpp(297): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(2263): note: 'sscanf' の宣言を確認してください
+C:\Users\ShimaLab\Desktop\2019年度 B4講義資料\共通課題\API_watanabe\wave_paint\main.cpp(422): warning C4244: '引数': 'double' から 'DWORD' への変換です。データが失われる可能性があります。
+  Picture.vcxproj -> C:\Users\ShimaLab\Desktop\2019年度 B4講義資料\共通課題\API_watanabe\wave_paint\.\Release\Picture.exe
